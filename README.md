@@ -1,5 +1,5 @@
 # qrcode
-PHP版&amp; Jqury版 二维码在线工具
+PHP版&amp; Jquery版 二维码在线工具
 
 ## qrcode目录
 1. qrcode目录是PHP版的二维码
